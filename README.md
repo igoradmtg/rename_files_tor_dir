@@ -28,7 +28,8 @@ name5-003.jpg -> name5-
 
 download files
 
-edit file 
+edit file rename_files_tor_dir.php
+
 ```PHP
 ...
 $dir = 'z:/upl2';
@@ -36,3 +37,4 @@ $num_str_count = 4; // 4 - name1-0001.jpg , 3 - name1-001.jpg , 2 - name1-01.jpg
 ...
 ```
 
+run rename_files_tor_dir.php
